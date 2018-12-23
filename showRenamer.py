@@ -12,7 +12,7 @@ showname = os.getcwd().split('/')[-1]
 # Scrape show metadata from tvdb
 
 url='https://api.thetvdb.com/'
-apikey = 'F386OP1GPBNFMYMN'
+apikey = ### <Your API Key here> ###
 
 showData = list()
 
